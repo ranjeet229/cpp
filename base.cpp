@@ -278,5 +278,5 @@ void Board() {
         }
         if (i < 2) cout << "\n-----------\n";
     }
-    cout << "\n\n";
+    cout << "\n\n\n";
 }
